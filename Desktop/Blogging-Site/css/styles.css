@@ -1,0 +1,38 @@
+.aboutme {
+  font-family:cursive;
+  font-style: italic;
+  text-align: center;
+  margin-left: 8px;
+  border: solid 10px black;
+}
+
+.blog {
+  margin-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+  margin-left: 8px;
+  margin-right: 500px;
+  font-family: monospace;
+  background-color: #E3BCBC;
+  border: dashed 5px black;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  font-size: 24px;
+}
+h3 {
+  font-style: italic;
+}
+
+button {
+  margin-top: 20px;
+  margin-left: 8px;
+  padding: 8px 3px;
+  font-size: 12px;
+  font-family: monospace;
+  background-color: #BCD2E3;
+}
